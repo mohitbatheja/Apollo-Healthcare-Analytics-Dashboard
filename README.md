@@ -1,2 +1,26 @@
 # Apollo-Healthcare-Analytics-Dashboard
-Apollo Healthcare Analytics Dashboard: Developed an interactive Power BI dashboard to analyze patient admissions, discharges, billing, insurance coverage, bed occupancy, doctor feedback, and diagnosis trends. Used Power Query, DAX, and interactive visualizations to provide actionable insights and support healthcare decision-making.
+## Project Overview
+This Power BI dashboard provides insights into hospital operations, patient management, billing, insurance coverage, and diagnostic trends.
+## Key Metrics
+- Billing Amount
+- Bed Occupancy
+- Patient Follow-up
+- Doctor Feedback
+- Diagnosis Analysis
+- Insurance Coverage
+## Tools Used
+- Power BI Desktop
+- Excel Dataset
+- DAX
+- Power Query
+## Features
+- Interactive Filters
+- Date Range Analysis
+- KPI Cards
+- Trend Analysis
+- Healthcare Performance Monitoring
+## Dashboard Insights
+- Monitor patient admissions and discharges
+- Analyze doctor feedback scores
+- Track billing and insurance trends
+- Evaluate bed occupancy utilization
