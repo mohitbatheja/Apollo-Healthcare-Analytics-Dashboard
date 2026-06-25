@@ -24,3 +24,4 @@ This Power BI dashboard provides insights into hospital operations, patient mana
 - Analyze doctor feedback scores
 - Track billing and insurance trends
 - Evaluate bed occupancy utilization
+<img width="743" height="477" alt="image" src="https://github.com/user-attachments/assets/9bc4e6e3-70ab-4cd5-8af7-82127c388fad" />
